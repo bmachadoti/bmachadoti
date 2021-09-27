@@ -1,5 +1,4 @@
 # SOFTWARE ENGINEER
-## Passionate about technology and endless solutions to technical impediments and challenges.
 
 <div style="display: inline-block">
   <img style="float:left;" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
